@@ -1,0 +1,17 @@
+# Виртуальное окружение
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Сборка exe
+dist/
+build/
+*.spec
+
+# Служебные файлы
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
